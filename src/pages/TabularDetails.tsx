@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { Search, Filter, MoreVertical, ShieldCheck, ShieldAlert, Shield, ChevronDown, ChevronLeft, ChevronRight, Download } from 'lucide-react';
 
-// Dummy data
 const usersData = [
     { id: 1, name: 'Alex Developer', email: 'alex@technova.example.com', role: 'Admin', status: 'Active', lastLogin: '2024-03-05 09:12 AM' },
     { id: 2, name: 'Sarah Connor', email: 'sarah.c@technova.example.com', role: 'Editor', status: 'Active', lastLogin: '2024-03-05 08:30 AM' },

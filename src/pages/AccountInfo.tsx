@@ -26,7 +26,7 @@ export default function AccountInfo() {
                             </div>
                         </div>
 
-                        <h2 className="text-2xl font-bold text-white mb-1">Alex Developer</h2>
+                        <h2 className="text-2xl font-bold text-white mb-1">Shaoor Developer</h2>
                         <p className="text-tech-accent font-medium mb-4">Senior Software Engineer</p>
 
                         <div className="w-full space-y-3 text-left border-t border-tech-muted/20 pt-4">
